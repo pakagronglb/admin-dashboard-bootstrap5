@@ -3,7 +3,7 @@
 
 This project is a **responsive admin dashboard** built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**. It features a collapsible sidebar, a content area for managing data (such as tables and cards), and a responsive layout suitable for modern admin panels.
 
-This project is based on the tutorial by **Codz Sword** (Dashboard Using Bootstrap 5 | Admin Template With Bootstrap 5 | Responsive Admin Dashboard Bootstrap)[https://www.youtube.com/watch?v=CzQhzULD5GA] 
+This project is based on the tutorial by **Codz Sword** [Dashboard Using Bootstrap 5 | Admin Template With Bootstrap 5 | Responsive Admin Dashboard Bootstrap](https://www.youtube.com/watch?v=CzQhzULD5GA)
 
 ## Features
 
